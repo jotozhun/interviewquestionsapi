@@ -1,0 +1,14 @@
+version: '3.10'
+
+services:
+  interviewapi:
+    build:
+      context: .
+      args:
+        - DEV=true
+    volumes:
+      - ./interviewapi:/interviewapi
+    ports:
+      - "8400:8400"
+    command: >
+      sh -c "uvicorn main:app --host 0.0.0.0 --port 8400 --reload"
