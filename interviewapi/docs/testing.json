@@ -1,0 +1,11 @@
+[
+    {
+        "question": "What is debugging? How is it related to testing? Name one tool for this purpose",
+        "answer": "The process of identifying and correct programming errors.\nIn testing, we find issues, which are called errors and bugs.\nTools: GDB, Chrome DevTools or any ID specific tool",
+        "keywords": ["fix", "bugs", "gdb"],
+        "difficulty": "medium",
+        "level": "junior",
+        "tags": ["conceptual", "debug"],
+        "tools": ["gdb", "chrome devtools", "windbg"]
+    }
+]

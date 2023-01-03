@@ -1,0 +1,33 @@
+[
+    {
+        "question": "What is an algorithm?",
+        "answer": "Is a set of ordered rules that can solve a problem or perform a task.",
+        "keywords": [
+            "set",
+            "ordered",
+            "steps",
+            "rules",
+            "task",
+            "solve"
+          ],
+        "difficulty": "easy",
+        "level": "junior",
+        "tags": ["algorithms", "conceptual", "basics"]
+    },
+    {
+        "question": "Tell me the difference between a programming language interpreted vs compiled. Give an example of each one.",
+        "answer": "The difference relies on the result of the process until getting the execution of the program.\nA compiler produces an assembly program that can be executed. Java, C, C++.\nAn interpreter directly executes the source code. PHP, Ruby, Python.",
+        "keywords": ["assembly", "step by step"],
+        "difficulty": "medium",
+        "level": "junior",
+        "tags": ["conceptual", "basics", "language"]
+    },
+    {
+        "question": "",
+        "answer": "",
+        "keywords": [],
+        "difficulty": "",
+        "level": "",
+        "tags": ["algorithms", "conceptual"]
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "_id": {
+      "$oid": "63b142b51e5960e47e39bd4e"
+    },
+    "question": "What is an algorithm?",
+    "answer": "Is a set of ordered rules that can solve a problem or perform a task.",
+    "keywords": [
+      "set",
+      "ordered",
+      "steps",
+      "rules",
+      "task",
+      "solve"
+    ],
+    "difficulty": "easy",
+    "level": "junior"
+  }
