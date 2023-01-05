@@ -1,0 +1,16 @@
+[
+    {
+        "question": "What are the responsabilities of a cloud architect?",
+        "answer": "A cloud architect is responsible for overseeing the cloud computing strategy of a company.\nIncluding cloud plans with its costs, design of the cloud application, cloud management and monitoring.",
+        "keywords": ["strategy",
+                    "monitoring",
+                    "plan",
+                    "pricing",
+                    "design",
+                    "management"],
+        "difficulty": "easy",
+        "level": "all",
+        "tags": ["conceptual", "role"],
+        "tools": ["any"]
+    }
+]

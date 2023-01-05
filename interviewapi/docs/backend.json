@@ -1,0 +1,11 @@
+[
+    {
+        "question": "What is backend in programming?",
+        "answer": "The backend is the part of a computer application where performs most of the computing and the user can't access.",
+        "keywords": ["computing"],
+        "difficulty": "easy",
+        "level": "junior",
+        "tags": ["conceptual"],
+        "tools": ["any"]
+    }
+]

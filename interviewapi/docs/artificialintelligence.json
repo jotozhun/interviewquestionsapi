@@ -1,0 +1,13 @@
+[
+    {
+        "question": "What is Artificial Intelligence?",
+        "answer": "AI is a field of the computer science where the human brain's cognitive functions are studied and reproduced on a computer or system.",
+        "keywords": ["computer science",
+                     "reproduce",
+                     "replicate"],
+        "difficulty": "medium",
+        "level": "easy",
+        "tags": ["conceptual"],
+        "tools": ["any"]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "question": "What is the difference between a SQL and NoSQL database? Give an example of each one",
+        "answer": "SQL is language for managing data in a relational database management system, it consists in rows and tables which have relations to each others in many ways. MySQL, PostreSQL, SQLite.\nNoSQL is a non-relational database, it means that it can allow different structures to best fit the data. Each element stores is called a document which consists in key value store. MongoDB, AWS DynamoDB, CouchDB.",
+        "keywords": ["relational",
+                    "RDBMS",
+                    "management",
+                    "language",
+                    "document",
+                    "relations"],
+        "difficulty": "easy",
+        "level": "junior",
+        "tags": ["conceptual", "sql", "nosql"],
+        "tools": ["any"]
+    },
+    {
+        "question": "What is the acronym ACID in SQL? Name and give a short description of each property",
+        "answer": "A is Atomicity, all transactions must either succeed or fail completely, can't be a partial failure.\nC is Consistency, database must follow rules to validate and prevent corruptions, the database must be consistent before and after the transaction.\nI is Isolation, concurrent transactions can't affect each other, they should be independent.D is Durability, the changes of a successful transaction occures even if the system failure occurs.",
+        "keywords": ["automicity",
+                    "consistency",
+                    "isolation",
+                    "durability"],
+        "difficulty": "medium",
+        "level": "junior",
+        "tags": ["conceptual", "sql"],
+        "tools": ["any"]
+    }
+]
